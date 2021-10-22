@@ -12,3 +12,13 @@ Document here (ALSO IN 100 days of code repo)
 
 Starts 10/22 
 Ends   1/30
+
+
+Day 1 - 
+	Language: JavaScript
+	Worked on: Played around with react native. 
+	Things learned: 
+		1) React Native can be casted to your device. 
+		2) React Native uses its own components to access the native components on IOS and Android.
+		   One react native component is mapped to IOS/Androids respective native components.
+		3) If a folder is not showing up on GitHub then remove the .git/ folder from that subfolder that is not showing up.  
