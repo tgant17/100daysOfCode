@@ -1,0 +1,14 @@
+100 Days of Code 
+
+Program something everyday. Could be anything, project, school work, leetcode, etc.
+
+Make a github repo and commit what you did EVERYDAY. 
+
+100 days of code -
+		  | certainProject -
+				    | commit here
+
+Document here (ALSO IN 100 days of code repo)
+
+Starts 10/22 
+Ends   1/30
