@@ -21,4 +21,25 @@ Day 1 -
 		1) React Native can be casted to your device. 
 		2) React Native uses its own components to access the native components on IOS and Android.
 		   One react native component is mapped to IOS/Androids respective native components.
-		3) If a folder is not showing up on GitHub then remove the .git/ folder from that subfolder that is not showing up.  
+		3) If a folder is not showing up on GitHub then remove the .git/ folder from that subfolder that is not showing up.
+Day 2 - 
+	Language: Python
+	Worked on: Helped friend with his project.  
+	Things learned: How to play minesweeper lol. 
+Day 3 - 
+	Language: C++ / Cshanty
+	Worked on: Read through my Compilers project about converting an Abstract Syntax Tree into 3AC code. 
+	Things learned: More about 3AC code and how to convert it. 
+Day 4 - 
+	Language: C++ / Cshanty
+	Worked on: Compilers Project again. 
+	Things learned: Compilers is no fun. 
+Day 5 - 
+	Language: Javascript
+	Worked on: Did some reasearch on blockchains, more specifically the XRP Ledger and tried to connect/use it for the first time.
+		   Ran into some issues and am going to try again tomorrow. Also started mocking up the frontend of BlockPoll using Figma.  
+	Things learned: 
+		1.) About XRP Ledger's Consensus Protocol. Prioritizes -> Correctness -> Agreement -> Forward Progress. 
+		2.) Difference between NFTs and cryptocurrencies. 
+		3.) XRP Ledger processes transactions in blocks called ledgers. These blocks contain the information needed to keep the 
+		    blockchain secure, decentralized, and transparent. 
