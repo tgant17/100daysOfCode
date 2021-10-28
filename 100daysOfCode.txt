@@ -46,5 +46,6 @@ Day 5 -
 Day 6 - 
 	Language: Javascript
 	Worked on: Building my UI for my senior design project and played around more with react native.  
+			   Building a task manager in React Native, Started playing around with firebase authentication in react native. 
 	Things learned: 
 		1.) Expo Client can run apps in development without deploying to app/android store. 
