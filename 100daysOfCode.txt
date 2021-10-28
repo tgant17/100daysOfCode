@@ -43,3 +43,8 @@ Day 5 -
 		2.) Difference between NFTs and cryptocurrencies. 
 		3.) XRP Ledger processes transactions in blocks called ledgers. These blocks contain the information needed to keep the 
 		    blockchain secure, decentralized, and transparent. 
+Day 6 - 
+	Language: Javascript
+	Worked on: Building my UI for my senior design project and played around more with react native.  
+	Things learned: 
+		1.) Expo Client can run apps in development without deploying to app/android store. 
