@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <FlatList
         data={
-          [{key: "nate"}, {key: "maelyn"}, {key: "hanna"}, {key: "where the bitches at"}
+          [{key: "tristan"}, {key: "maelyn"}, {key: "hanna"}, {key: "where the bitches at"}
           ]}
         renderItem={({item}) => <Text style={styles.item}>{item.key}</Text>}
         />
