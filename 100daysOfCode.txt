@@ -55,3 +55,26 @@ Day 7 -
 	Language: C++
 	Worked on: Compilers Project.  
 	Things learned: More about 3AC code design. 
+
+Day 8 - 
+	Language: C++
+	Worked on: Compilers Project. Started implementing 3AC functions for all the nodes in the AST.  
+	Things learned: The basics of quads. 
+
+Day 8 - 
+	Language: C++
+	Worked on: Compilers Project
+	Things learned: How to init a enum in C++
+
+Day 9 - MISS :(
+
+Day 10 - 
+	Language: C++
+	Worked on: Compilers Project -- finished everything but recordTypeDeclNode
+	Things learned: More about 3AC code. 
+
+Day 11 - 
+	Language: JavaScript
+	Worked on: React native - battle tower project. 
+	Things learned: 
+		- Create a new react native app -- create-react-native-app MyProject
